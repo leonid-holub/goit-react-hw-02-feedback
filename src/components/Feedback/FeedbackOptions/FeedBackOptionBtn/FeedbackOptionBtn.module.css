@@ -6,6 +6,7 @@
   background-color: #ccffff;
   border-radius: 3px;
   border-width: 1px;
+  cursor: pointer;
 }
 
 .Button:active {
